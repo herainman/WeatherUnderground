@@ -1,0 +1,10 @@
+{
+  "name": "weatherUnderground",
+  "scripts": {
+    "start": "node weatherUnderground.js"
+  },
+  "dependencies": {
+    "express": "= 4.0",
+    "request": "= 2.9.201"
+  }
+}
